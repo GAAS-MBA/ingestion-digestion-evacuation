@@ -1,5 +1,7 @@
 # ingestion-digestion-evacuation
 
+**v0.0.0**
+
 体のパフォーマンスを最適化するための知恵を実装するリポジトリ。
 
 ---
