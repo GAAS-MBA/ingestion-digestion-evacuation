@@ -71,6 +71,7 @@
 
 - [HST理論の応用](docs/HST-theory-application.md) — ハードコーディングによる外部化と体のホログラム化
 - [情報フロー（In/Out）](docs/information-flow.md) — リポジトリがプロセスする情報の入力と出力
+- [Incompressibility Principle](docs/incompressibility-principle.md) — 情報の非圧縮性原則、コルモゴロフ複雑性、特異点・空間収縮への適用
 
 ---
 
