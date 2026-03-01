@@ -70,6 +70,7 @@
 ## ドキュメント
 
 - [HST理論の応用](docs/HST-theory-application.md) — ハードコーディングによる外部化と体のホログラム化
+- [情報フロー（In/Out）](docs/information-flow.md) — リポジトリがプロセスする情報の入力と出力
 
 ---
 
