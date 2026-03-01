@@ -74,6 +74,7 @@
 - [Incompressibility Principle](docs/incompressibility-principle.md) — 情報の非圧縮性原則、コルモゴロフ複雑性、特異点・空間収縮への適用
 - [企業急拡大時のバッファオーバーフロー](docs/scaling-buffer-overflow.md) — 100万円→10兆円スケール時の人間側オーバーフローとデバッグ、ケーススタディ
 - [マテリアライゼーションとストレージ](docs/materialization-and-storage.md) — 非ハードコーディング探索の反復、会計不正・文明アーカイブの事例
+- [ストレージ構成](storage/README.md) — ドキュメントストレージのフォルダ構成（universal / industry: 小売・製造・建設）
 
 ---
 
